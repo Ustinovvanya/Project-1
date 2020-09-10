@@ -1,0 +1,51 @@
+body{
+   
+    width: 100%;
+
+}
+h1{
+    font-family: Tahoma;
+    font-size: 60;
+    color:rebeccapurple;
+    
+}
+p{
+    line-height: 1.5;
+}
+.text1
+{
+    width: 60%;
+    background-color: yellowgreen;
+font-family: tahoma;
+text-align: left;
+padding: 20px 50px 50px 50px;
+border-radius: 20px 40px 60px 80px;
+}
+.text2
+{
+    width: 80%;
+    background-color: papayawhip;
+font-family: tahoma;
+text-align: left;
+padding: 20px 50px 50px 50px;
+border-radius: 80px 80px 80px 80px;
+}
+.pic1
+{
+    background-image: url(../images/01.jpg);
+    width: 48%;
+    height: 370px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px 50px 50px 50px;
+}
+.text3{
+    font-family: tahoma;
+    color: rgb(255, 221, 27);
+    font-size: 40px;
+    text-align: center;
+}
+.li1
+{
+    color: black;
+}
